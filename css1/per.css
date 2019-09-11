@@ -1,0 +1,55 @@
+a{
+    color: black;
+    
+}
+.content{
+    margin-bottom: 30px;
+}
+.gr{
+    background: url(../images/bj.jpg);
+    padding-bottom: 30px;
+}
+.gr1{
+    margin-bottom: 15px;
+}
+.panel-footer{
+   padding: 0;
+   background: #fff;
+}
+#pan li{
+    width: 25%;
+}
+.pan {
+    float: none;
+    text-align:center;
+}
+ul.nav.pan  li {
+    float:none;
+    display: inline-block;
+    margin: 0em;
+}
+.pan li a:hover{
+    background: #fff;
+    color: black;
+}
+.in{
+    margin-top: 0;
+}
+.inn{
+    padding: 10px 0;
+}
+.inn ul{
+    width: 100%;
+}
+.inn a{
+    text-decoration: none;
+}
+strong{
+    display: block;
+    font-size: 16px;
+    font-weight: 400;
+}
+span{
+    font-size: 12px;
+    color: #808080;
+}
